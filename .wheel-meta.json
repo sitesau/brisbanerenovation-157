@@ -1,0 +1,22 @@
+{
+  "wheel_id": 659,
+  "structure": "umbrella",
+  "slug": "brisbanerenovation-157",
+  "project": "renovation-builders-brisbane-655868be6cb5327e06282e157e88a48395",
+  "parent_t1_ref": "brisbanerenovation-011",
+  "node_role": "buffer",
+  "money_target": "brisbanerenovation.com.au",
+  "primary_kw": "renovation builders brisbane",
+  "intended_url": "http://renovation-builders-brisbane-655868be6cb5327e06282e157e88a48395.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "3083e8bb4ed49a2d",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/renovation-builders-brisbane-011/",
+      "anchor": "Renovation Builders Brisbane: A Practical Project Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
